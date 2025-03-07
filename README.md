@@ -37,12 +37,13 @@ Passionate about building accessible, high-performance applications using modern
 
 ## 🛠️ Tools Visualization
 ```mermaid
-pie showData
+pie
     title Frequently Used Tools
     "Next.js/Nuxt.js" : 35
     "React/Vue" : 30
     "Zustand/Zod" : 20
     "Lighthouse" : 15
+```
 
 ## 🏆 Featured Projects
 
