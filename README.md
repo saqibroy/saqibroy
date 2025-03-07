@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Saqib - Berlin-Based Web Developer
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsaqibroy&label=Visitors&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fsaqibroy)
-[![wakatime](https://wakatime.com/badge/user/yourid.svg)](https://wakatime.com/@yourid)
+[![wakatime](https://wakatime.com/badge/user/04f32415-555b-4fa9-8569-af46c61a4ea1.svg)](https://wakatime.com/@04f32415-555b-4fa9-8569-af46c61a4ea1)
 
 **Specializing in:**  
 🚀 Performance Optimization | ♿ Accessibility-First Development | 🔐 SEO
