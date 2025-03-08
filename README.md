@@ -35,7 +35,7 @@ Passionate about building accessible, high-performance applications using modern
       <img src="https://cdn.simpleicons.org/rubyonrails/CC0000" width="60" height="60" alt="Ruby on Rails" title="Ruby on Rails">
     </td>
     <td width="80px" align="center" style="border: 1px solid #eee; padding: 8px">
-      <img src="https://cdn.simpleicons.org/nuxtdotjs/00C58E" width="60" height="60" alt="Nuxt.js" title="Nuxt.js">
+      <img src="https://cdn.simpleicons.org/nuxt/00C58E" width="60" height="60" alt="Nuxt.js" title="Nuxt.js">
     </td>
     <td width="80px" align="center" style="border: 1px solid #eee; padding: 8px">
       <img src="https://cdn.simpleicons.org/symfony/000000" width="60" height="60" alt="Symfony" title="Symfony">
