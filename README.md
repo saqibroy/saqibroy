@@ -1,3 +1,7 @@
+<style>
+  img { filter: drop-shadow(0 0 0.5rem #ffffff20); }
+  td { background-color: #ffffff10; }
+</style>
 # 👋 Hi, I'm Saqib - Berlin-Based Web Developer
 
 Passionate about building accessible, high-performance applications using modern technologies. Focused on implementing best practices in frontend development, SEO optimization, and creating seamless user experiences.
@@ -7,43 +11,24 @@ Passionate about building accessible, high-performance applications using modern
 
 ## 🔧 Tech Stack
 
-<table width="100%">
+<table>
   <tr>
-    <!-- Frontend -->
-    <td width="80px" align="center" style="border: 1px solid #eee; padding: 8px">
+    <!-- Frontend Column -->
+    <td align="center" style="padding-right: 40px;">
       <img src="https://cdn.simpleicons.org/html5/E34F26" width="60" height="60" alt="HTML5" title="HTML5">
-    </td>
-    <td width="80px" align="center" style="border: 1px solid #eee; padding: 8px">
       <img src="https://cdn.simpleicons.org/css3/1572B6" width="60" height="60" alt="CSS3" title="CSS3">
-    </td>
-    <td width="80px" align="center" style="border: 1px solid #eee; padding: 8px">
       <img src="https://cdn.simpleicons.org/sass/CC6699" width="60" height="60" alt="Sass" title="Sass">
-    </td>
-    <td width="80px" align="center" style="border: 1px solid #eee; padding: 8px">
       <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="60" height="60" alt="JavaScript" title="JavaScript">
-    </td>
-    <td width="80px" align="center" style="border: 1px solid #eee; padding: 8px">
       <img src="https://cdn.simpleicons.org/react/61DAFB" width="60" height="60" alt="React" title="React">
-    </td>
-    <td width="80px" align="center" style="border: 1px solid #eee; padding: 8px">
       <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="60" height="60" alt="Tailwind CSS" title="Tailwind CSS">
     </td>
-  </tr>
-  <tr>
-    <!-- Backend -->
-    <td width="80px" align="center" style="border: 1px solid #eee; padding: 8px">
+    
+    <!-- Backend Column -->
+    <td align="center">
       <img src="https://cdn.simpleicons.org/rubyonrails/CC0000" width="60" height="60" alt="Ruby on Rails" title="Ruby on Rails">
-    </td>
-    <td width="80px" align="center" style="border: 1px solid #eee; padding: 8px">
-      <img src="https://cdn.simpleicons.org/nuxt/00C58E" width="60" height="60" alt="Nuxt.js" title="Nuxt.js">
-    </td>
-    <td width="80px" align="center" style="border: 1px solid #eee; padding: 8px">
+      <img src="https://cdn.simpleicons.org/nuxtdotjs/00C58E" width="60" height="60" alt="Nuxt.js" title="Nuxt.js">
       <img src="https://cdn.simpleicons.org/symfony/000000" width="60" height="60" alt="Symfony" title="Symfony">
-    </td>
-    <td width="80px" align="center" style="border: 1px solid #eee; padding: 8px">
       <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="60" height="60" alt="Node.js" title="Node.js">
-    </td>
-    <td width="80px" align="center" style="border: 1px solid #eee; padding: 8px">
       <img src="https://cdn.simpleicons.org/php/777BB4" width="60" height="60" alt="PHP" title="PHP">
     </td>
   </tr>
