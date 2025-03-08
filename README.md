@@ -6,29 +6,17 @@ Passionate about building accessible, high-performance applications using modern
 [![wakatime](https://wakatime.com/badge/user/04f32415-555b-4fa9-8569-af46c61a4ea1.svg)](https://wakatime.com/@04f32415-555b-4fa9-8569-af46c61a4ea1)
 
 ## 🔧 Tech Stack
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-
-### Backend
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Tools & Libraries
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-1F1E33?style=for-the-badge&logo=typescript&logoColor=white)
-![SWR](https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Lighthouse](https://img.shields.io/badge/Lighthouse-FF4444?style=for-the-badge&logo=lighthouse&logoColor=white)
-
-### DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+<div align="left">
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40" alt="React" title="React" />
+  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" width="40" height="40" alt="Vue.js" title="Vue.js" />
+  <img src="https://cdn.simpleicons.org/typescript/007ACC" width="40" height="40" alt="TypeScript" title="TypeScript" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="40" height="40" alt="Next.js" title="Next.js" />
+  <img src="https://cdn.simpleicons.org/nuxtdotjs/00C58E" width="40" height="40" alt="Nuxt.js" title="Nuxt.js" />
+  <img src="https://cdn.simpleicons.org/rails/CC0000" width="40" height="40" alt="Ruby on Rails" title="Ruby on Rails" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" height="40" alt="Node.js" title="Node.js" />
+  <img src="https://cdn.simpleicons.org/symfony/000000" width="40" height="40" alt="Symfony" title="Symfony" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" width="40" height="40" alt="PHP" title="PHP" />
+</div>
 
 ## 📈 GitHub Stats
 
@@ -39,12 +27,25 @@ Passionate about building accessible, high-performance applications using modern
 ```mermaid
 pie
     title Frequently Used Tools
-    "Next.js/Nuxt.js" : 35
-    "React/Vue" : 30
-    "Zustand/Zod" : 20
+    "Next.js/Nuxt.js" : 25
+    "SWR/vue-swr": 20
+    "Zustand/Pinia" : 20
     "Lighthouse" : 15
+    "ZOD" : 10
+    "vitest" : 10
 ```
-
+## 🛠️ practices Visualization
+```mermaid
+pie
+    title Frequently Used Tools
+    "SSR" : 20
+    "Semantic HTML" : 15
+    "Aria/SR" : 15
+    "Memoizing" : 15
+    "Lazy Loading": 15
+    "Code Splitting" : 10
+    "Web Vitals" : 10
+```
 ## 🏆 Featured Projects
 
 | Project | Description | Tech Stack |
