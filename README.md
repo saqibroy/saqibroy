@@ -7,8 +7,8 @@ Passionate about building accessible, high-performance applications using modern
 
 ## 🔧 Tech Stack
 <div align="left">
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40" alt="React" title="React" />
-  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" width="40" height="40" alt="Vue.js" title="Vue.js" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="80" height="80" alt="React" title="React" />
+  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" width="80" height="80" alt="Vue.js" title="Vue.js" />
   <img src="https://cdn.simpleicons.org/typescript/007ACC" width="40" height="40" alt="TypeScript" title="TypeScript" />
   <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="40" height="40" alt="Next.js" title="Next.js" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" height="40" alt="Node.js" title="Node.js" />
