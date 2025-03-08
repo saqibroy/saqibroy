@@ -34,7 +34,7 @@ pie
 ## 🛠️ practices Visualization
 ```mermaid
 pie
-    title Frequently Used Tools
+    title Frequently Used Practices
     "SSR" : 20
     "Semantic HTML" : 15
     "Aria/SR" : 15
