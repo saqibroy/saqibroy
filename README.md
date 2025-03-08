@@ -22,8 +22,6 @@ Passionate about building accessible, high-performance applications using modern
       <img src="https://cdn.simpleicons.org/react/61DAFB" width="60" height="60" alt="React" title="React">
       <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="60" height="60" alt="Tailwind CSS" title="Tailwind CSS">
     </td>
-    
-    <!-- Backend Column -->
     <td align="center">
       <img src="https://cdn.simpleicons.org/rubyonrails/CC0000" width="60" height="60" alt="Ruby on Rails" title="Ruby on Rails">
       <img src="https://cdn.simpleicons.org/nuxtdotjs/00C58E" width="60" height="60" alt="Nuxt.js" title="Nuxt.js">
