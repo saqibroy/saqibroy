@@ -6,14 +6,48 @@ Passionate about building accessible, high-performance applications using modern
 [![wakatime](https://wakatime.com/badge/user/04f32415-555b-4fa9-8569-af46c61a4ea1.svg)](https://wakatime.com/@04f32415-555b-4fa9-8569-af46c61a4ea1)
 
 ## 🔧 Tech Stack
-<div align="left">
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="80" height="80" alt="React" title="React" />
-  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" width="80" height="80" alt="Vue.js" title="Vue.js" />
-  <img src="https://cdn.simpleicons.org/typescript/007ACC" width="40" height="40" alt="TypeScript" title="TypeScript" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="40" height="40" alt="Next.js" title="Next.js" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" height="40" alt="Node.js" title="Node.js" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" width="40" height="40" alt="PHP" title="PHP" />
-</div>
+
+<table width="100%">
+  <tr>
+    <!-- Frontend -->
+    <td width="80px" align="center" style="border: 1px solid #eee; padding: 8px">
+      <img src="https://cdn.simpleicons.org/html5/E34F26" width="60" height="60" alt="HTML5" title="HTML5">
+    </td>
+    <td width="80px" align="center" style="border: 1px solid #eee; padding: 8px">
+      <img src="https://cdn.simpleicons.org/css3/1572B6" width="60" height="60" alt="CSS3" title="CSS3">
+    </td>
+    <td width="80px" align="center" style="border: 1px solid #eee; padding: 8px">
+      <img src="https://cdn.simpleicons.org/sass/CC6699" width="60" height="60" alt="Sass" title="Sass">
+    </td>
+    <td width="80px" align="center" style="border: 1px solid #eee; padding: 8px">
+      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="60" height="60" alt="JavaScript" title="JavaScript">
+    </td>
+    <td width="80px" align="center" style="border: 1px solid #eee; padding: 8px">
+      <img src="https://cdn.simpleicons.org/react/61DAFB" width="60" height="60" alt="React" title="React">
+    </td>
+    <td width="80px" align="center" style="border: 1px solid #eee; padding: 8px">
+      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="60" height="60" alt="Tailwind CSS" title="Tailwind CSS">
+    </td>
+  </tr>
+  <tr>
+    <!-- Backend -->
+    <td width="80px" align="center" style="border: 1px solid #eee; padding: 8px">
+      <img src="https://cdn.simpleicons.org/rubyonrails/CC0000" width="60" height="60" alt="Ruby on Rails" title="Ruby on Rails">
+    </td>
+    <td width="80px" align="center" style="border: 1px solid #eee; padding: 8px">
+      <img src="https://cdn.simpleicons.org/nuxtdotjs/00C58E" width="60" height="60" alt="Nuxt.js" title="Nuxt.js">
+    </td>
+    <td width="80px" align="center" style="border: 1px solid #eee; padding: 8px">
+      <img src="https://cdn.simpleicons.org/symfony/000000" width="60" height="60" alt="Symfony" title="Symfony">
+    </td>
+    <td width="80px" align="center" style="border: 1px solid #eee; padding: 8px">
+      <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="60" height="60" alt="Node.js" title="Node.js">
+    </td>
+    <td width="80px" align="center" style="border: 1px solid #eee; padding: 8px">
+      <img src="https://cdn.simpleicons.org/php/777BB4" width="60" height="60" alt="PHP" title="PHP">
+    </td>
+  </tr>
+</table>
 
 ## 📈 GitHub Stats
 
