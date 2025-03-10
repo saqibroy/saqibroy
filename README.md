@@ -103,7 +103,7 @@ pie
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [💸 Currency Transfer App](https://github.com/saqibroy/currency-transfer) | Multi-currency transaction platform | Rails, React, PostgreSQL |
-
+| [ Modern Notes App](https://github.com/saqibroy/notes-app-react-vite) | Notes app created using modern tech stack | React, Mantine, Jest |
 
 
 <!--
