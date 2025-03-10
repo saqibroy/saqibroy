@@ -86,6 +86,7 @@ pie
     "Zod (Schema Validation)" : 10
     "Vitest & Jest (Testing Framework)" : 10
 ```
+## 
 
 ```mermaid
 pie
@@ -97,6 +98,7 @@ pie
     "Lazy Loading & Code Splitting": 15
     "Client-Side Storage for Speed" : 10
 ```
+##
 ## 🏆 Featured Projects
 
 | Project | Description | Tech Stack |
