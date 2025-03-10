@@ -4,8 +4,8 @@ My focus lies in optimizing performance through modern techniques, ensuring acce
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsaqibroy&label=Visitors&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fsaqibroy)
 [![wakatime](https://wakatime.com/badge/user/04f32415-555b-4fa9-8569-af46c61a4ea1.svg)](https://wakatime.com/@04f32415-555b-4fa9-8569-af46c61a4ea1)
-## 📬 Let's Connect
 
+## 📬 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/saqibroy)
 [![Email](https://img.shields.io/badge/Email-Contact-%23EA4335?style=for-the-badge&logo=gmail)](mailto:sohail.cpp@gmail.com)
 
@@ -30,6 +30,7 @@ My focus lies in optimizing performance through modern techniques, ensuring acce
       <img src="https://cdn.simpleicons.org/tailwindcss" width="60" height="60" alt="Tailwind CSS" title="Tailwind CSS">
     </td>
   </tr>
+  
   <tr>
     <td width="80px" align="center" style="border: 1px solid #eee; padding: 8px">
       <img src="https://cdn.simpleicons.org/react" width="60" height="60" alt="React.js" title="React.js">
@@ -47,6 +48,7 @@ My focus lies in optimizing performance through modern techniques, ensuring acce
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" width="60" height="60" alt="Vitest" title="Vitest">
     </td>
   </tr>
+  
   <tr>
     <td width="80px" align="center" style="border: 1px solid #eee; padding: 8px">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" width="60" height="60" alt="Ruby on Rails" title="Ruby on Rails">
@@ -86,7 +88,7 @@ pie
     "Zod (Schema Validation)" : 10
     "Vitest & Jest (Testing Framework)" : 10
 ```
-## 
+
 
 ```mermaid
 pie
@@ -98,7 +100,7 @@ pie
     "Lazy Loading & Code Splitting": 15
     "Client-Side Storage for Speed" : 10
 ```
-##
+
 ## 🏆 Featured Projects
 
 | Project | Description | Tech Stack |
