@@ -10,7 +10,7 @@ My focus lies in optimizing performance through modern techniques, ensuring acce
 [![Email](https://img.shields.io/badge/Email-Contact-%23EA4335?style=for-the-badge&logo=gmail)](mailto:sohail.cpp@gmail.com)
 
 ## Languages and tools
-
+<div style="text-align: center">
 <table width="100%" style="border-collapse: collapse;">
   <tr>
     <!-- Frontend -->
@@ -24,24 +24,21 @@ My focus lies in optimizing performance through modern techniques, ensuring acce
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60" height="60" alt="sass" title="sass">
     </td>
     <td width="80px" align="center" style="border: 1px solid #eee; padding: 8px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" title="JavaScript">
-    </td>
-    <td width="80px" align="center" style="border: 1px solid #eee; padding: 8px">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" alt="TypeScript" title="TypeScript">
-    </td>
-    <td width="80px" align="center" style="border: 1px solid #eee; padding: 8px">
-      <img src="https://cdn.simpleicons.org/react" width="60" height="60" alt="React.js" title="React.js">
-    </td>
-    <td width="80px" align="center" style="border: 1px solid #eee; padding: 8px">
-      <img src="https://cdn.simpleicons.org/vuedotjs" width="60" height="60" alt="Vue.js" title="Vue.js">
     </td>
     <td width="80px" align="center" style="border: 1px solid #eee; padding: 8px">
       <img src="https://cdn.simpleicons.org/tailwindcss" width="60" height="60" alt="Tailwind CSS" title="Tailwind CSS">
     </td>
   </tr>
   <tr>
+    <td width="80px" align="center" style="border: 1px solid #eee; padding: 8px">
+      <img src="https://cdn.simpleicons.org/react" width="60" height="60" alt="React.js" title="React.js">
+    </td>
     <td width="80px" align="center" style="border: 1px solid #eee; padding: 8px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="60" height="60" alt="Next.js" title="Next.js">
+    </td>
+    <td width="80px" align="center" style="border: 1px solid #eee; padding: 8px">
+      <img src="https://cdn.simpleicons.org/vuedotjs" width="60" height="60" alt="Vue.js" title="Vue.js">
     </td>
     <td width="80px" align="center" style="border: 1px solid #eee; padding: 8px">
       <img src="https://cdn.simpleicons.org/nuxt/00C58E" width="60" height="60" alt="Nuxt.js" title="Nuxt.js">
@@ -49,9 +46,8 @@ My focus lies in optimizing performance through modern techniques, ensuring acce
     <td width="80px" align="center" style="border: 1px solid #eee; padding: 8px">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" width="60" height="60" alt="Vitest" title="Vitest">
     </td>
-    <td width="80px" align="center" style="border: 1px solid #eee; padding: 8px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="60" height="60" alt="Gitlab" title="Gitlab">
-    </td>
+  </tr>
+  <tr>
     <td width="80px" align="center" style="border: 1px solid #eee; padding: 8px">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" width="60" height="60" alt="Ruby on Rails" title="Ruby on Rails">
     </td>
@@ -63,16 +59,19 @@ My focus lies in optimizing performance through modern techniques, ensuring acce
     </td>
     <td width="80px" align="center" style="border: 1px solid #eee; padding: 8px">
       <img src="https://cdn.simpleicons.org/php/777BB4" width="60" height="60" alt="PHP" title="PHP">
+    </td>    
+    <td width="80px" align="center" style="border: 1px solid #eee; padding: 8px">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="60" height="60" alt="Gitlab" title="Gitlab">
     </td>
   </tr>
 </table>
+</div>
 
 ## GitHub Stats
 
-[![Saqib's GitHub stats](https://github-readme-stats.vercel.app/api?username=saqibroy&show_icons=true&theme=react&hide_title=true)](https://github.com/saqibroy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=saqibroy&theme=react)](https://github.com/saqibroy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saqibroy&layout=compact&theme=react)](https://github.com/saqibroy)
-[![GitHub Streak](https://streak-stats.demolab.com?user=saqibroy&theme=dark)](https://github.com/saqibroy)
-
+[![Saqib's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saqibroy&layout=compact&theme=react)](https://wakatime.com/@saqibroy)
 
 ## Modern Development Tools and Principles
 
@@ -91,10 +90,10 @@ pie
 ```mermaid
 pie
     title Core Development Principles
-    "SEO-Optimized SSR" : 20
-    "Semantic HTML for Accessibility" : 20
-    "Memoization for Efficiency" : 20
-    "ARIA & Screen Reader Support" : 15
+    "SEO-Optimized SSR" : 19
+    "Semantic HTML for Accessibility" : 19
+    "Memoization for Efficiency" : 19
+    "ARIA & Screen Reader Support" : 18
     "Lazy Loading & Code Splitting": 15
     "Client-Side Storage for Speed" : 10
 ```
@@ -102,8 +101,8 @@ pie
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [💸 Currency Transfer App](https://github.com/saqibroy/currency-transfer) | Multi-currency transaction platform | Rails, React, PostgreSQL |
-| [ Modern Notes App](https://github.com/saqibroy/notes-app-react-vite) | Notes app created using modern tech stack | React, Mantine, Jest |
+| [Virtual Currency Transfer App](https://github.com/saqibroy/virtual-currency-transfer-app ) | Multi-currency transaction platform | Rails, React, PostgreSQL |
+| [Modern Notes App](https://github.com/saqibroy/notes-app-react-vite) | Notes app created using modern tech stack | React, Mantine, Jest |
 
 
 <!--
