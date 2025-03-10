@@ -101,15 +101,14 @@ pie
     "Client-Side Storage for Speed" : 10
 ```
 
+<!--
+
 ## 🏆 Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [Virtual Currency Transfer App](https://github.com/saqibroy/virtual-currency-transfer-app ) | Multi-currency transaction platform | Rails, React, PostgreSQL |
 | [Modern Notes App](https://github.com/saqibroy/notes-app-react-vite) | Notes app created using modern tech stack | React, Mantine, Jest |
-
-
-<!--
 **saqibroy/saqibroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
