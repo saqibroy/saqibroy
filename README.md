@@ -72,7 +72,6 @@ My focus lies in optimizing performance through modern techniques, ensuring acce
 ## GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saqibroy&layout=compact&theme=react)](https://github.com/saqibroy)
-[![Saqib's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saqibroy&layout=compact&theme=react)](https://wakatime.com/@saqibroy)
 
 ## Modern Development Tools and Principles
 
