@@ -3,7 +3,6 @@
 My focus lies in optimizing performance through modern techniques, ensuring accessibility for all users, and implementing SEO best practices to drive visibility and engagement. With experience working with Berlin-based companies, I bring a strong technical foundation and a commitment to delivering scalable, user-centric solutions.
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsaqibroy&label=Visitors&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fsaqibroy)
-[![wakatime](https://wakatime.com/badge/user/04f32415-555b-4fa9-8569-af46c61a4ea1.svg)](https://wakatime.com/@04f32415-555b-4fa9-8569-af46c61a4ea1)
 
 ## 📬 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/saqibroy)
